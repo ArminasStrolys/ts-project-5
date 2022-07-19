@@ -1,1 +1,1 @@
-module.exports = "Testing string"
+export default "Testing string"
